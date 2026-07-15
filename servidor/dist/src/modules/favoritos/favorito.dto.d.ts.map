@@ -1,0 +1,1 @@
+{"version":3,"file":"favorito.dto.d.ts","sourceRoot":"","sources":["../../../../src/modules/favoritos/favorito.dto.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,gBAAgB;IAC/B,SAAS,EAAE,MAAM,CAAC;IAClB,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,MAAM,WAAW,oBAAoB;IACnC,EAAE,EAAE,MAAM,CAAC;IACX,SAAS,EAAE,MAAM,CAAC;IAClB,OAAO,EAAE,MAAM,CAAC;IAChB,QAAQ,EAAE,IAAI,CAAC;CAChB"}
